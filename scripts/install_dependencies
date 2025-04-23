@@ -1,3 +1,4 @@
 #!/bin/bash
+sudo chmod +x scripts/*
 yum install -y httpd
 
